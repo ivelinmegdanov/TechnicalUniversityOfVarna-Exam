@@ -1,0 +1,4 @@
+﻿  Exam.cpp
+C:\Users\User\Desktop\Exam Uni\Exam\Exam\Exam.cpp(46,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\Exam Uni\Exam\Exam\Exam.cpp(645,21): warning C4018: '<': signed/unsigned mismatch
+  Exam.vcxproj -> C:\Users\User\Desktop\Exam Uni\Exam\Debug\Exam.exe
